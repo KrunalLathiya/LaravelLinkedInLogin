@@ -1,10 +1,10 @@
-## Creating OAuth login using Socialte in Laravel 11
+## Creating OAuth login using Socialite in Laravel 11
 
 Go inside the Project and install the required packages.
 - composer install
 - npm install
 
-Create your database. I am using MySQL. So, add the required credentials inside .env file.
+Create your database. I am using MySQL. So, add the required credentials inside the .env file.
 
 Create a LinkedIn Application from this url (https://developer.linkedin.com/). It will give you the client_id and client client_secret.
 
